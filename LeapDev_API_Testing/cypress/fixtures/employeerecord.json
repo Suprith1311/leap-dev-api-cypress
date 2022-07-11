@@ -1,0 +1,12 @@
+{
+    "FirstName":"test",
+    "LastName" :"apitest", 
+    "DateOfBirth":"23/04/1995", 
+    "StartDate" : "21/01/2022", 
+    "Department" : "Science", 
+    "JobTitle" : "Engineer", 
+    "Email": "test@xyz.com",
+     "Mobile": "012345678", 
+     "Address":"toowong road",
+     "BaseSalary" : "250000"
+  }
